@@ -1,6 +1,6 @@
-# Nepali Date
+# Nepali Faker
 
-[![Latest Version](https://img.shields.io/github/release/thephpleague/skeleton.svg?style=flat-square)](https://github.com/mangitmaharjan/nepali-date/releases)
+[![Latest Version](https://img.shields.io/github/release/thephpleague/skeleton.svg?style=flat-square)](https://github.com/mangitmaharjan/nepali-faker/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 
